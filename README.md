@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ankit Bijalwan
 
-### Data Analyst | SQL • Python • Power BI • GenAI & LLM Workflows
+### Operations, Data Governance & Analytics Specialist | SQL • Python • Power BI • GenAI
 
 🌐 **Connect With Me**
 <p>
@@ -19,10 +19,10 @@
 
 ## 🚀 About Me
 
-* 📊 Building projects around real business problems
-* 📈 Interested in Data Analysis, Customer Churn & GenAI-driven workflows
-* 🛠️ Learning advanced data workflows and pipelines
-* 💡 Strong focus on **SQL + Business Thinking**
+* 📊 Operations, Data Governance & Analytics Specialist with hands-on experience in MDM, UAT execution, and pipeline development.
+* ⚡ Proven track record of slashing manual reporting efforts by **40%** through advanced process automation and Power Query.
+* 💡 Strong focus on translating complex operational requirements into actionable business insights and scalable data workflows.
+* 🤖 Expanding expertise into **GenAI & LLM-driven analytics workflows**.
 
 ---
 
@@ -30,41 +30,50 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Power_BI-Dashboarding-yellow?style=for-the-badge">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Power_BI-Dashboarding-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/FastAPI-API-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Advanced_Excel-Power_Query-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Operations Data Analyst Intern | Brillica Services Pvt. Ltd. (Sep 2025 - Present)
+* Optimized end-to-end master data management workflows by engineering scalable Python and SQL pipelines (**15% boost in data reliability**).
+* Led UAT execution and post-deployment reviews, successfully **slashing manual reporting effort by 40%**.
+* Architected Power BI dashboards with optimized semantic models to deliver real-time KPI visibility for leadership.
+
+### 🏛️ Master Operations Trainer & Reporting Specialist | Ministry of Panchayati Raj (Nov 2024 - Aug 2025)
+* Spearheaded change management and performance tracking across multiple districts on the TMP Portal for 500+ trainees.
+* Managed end-to-end MIS reporting and delivered data-driven evaluations that directly informed resource allocation.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏥 Hospital Management Analytics
-* Analyzed healthcare data to uncover operational insights using SQL and Power BI.
-* **Repo:** [Hospital_Management_Analytics_SQL_PowerBI](https://github.com/AnkitBijalwan33/Hospital_Management_Analytics_SQL_PowerBI)
-
-### 👥 Customer Behavior Analysis
-* Analyzed 3,900 transactions to uncover customer spending patterns with Python (Pandas).
-* **Repo:** [Customer_Behavior_Analysis](https://github.com/AnkitBijalwan33/Customer_Behavior_Analysis)
-
 ### 🚖 Ola Ride Bookings Analysis
-* Analyzed 100K+ Ola ride bookings using MySQL, SQL, and Power BI.
+* Built a 5-page Power BI dashboard covering 103,000+ ride bookings, tracking **Rs. 3.5 Crore** in total booking value and a 62% success rate.
+* Designed a relational MySQL schema with 10 analytical views.
 * **Repo:** [ola-ride-bookings-analysis](https://github.com/AnkitBijalwan33/ola-ride-bookings-analysis)
 
-### 📉 OTT Customer Churn Analysis
-* Engineered exploratory data analysis (EDA) pipeline to identify customer retention and churn risks.
+### 📉 OTT Customer Churn Analysis & Intelligence
+* Executed an end-to-end EDA pipeline in Python and SQLite, uncovering key correlations between support escalations and churn.
 * **Repo:** [OTT-Customer-Churn-Analysis-Intelligence](https://github.com/AnkitBijalwan33/OTT-Customer-Churn-Analysis-Intelligence)
+
+### 🛍️ Customer Shopping Behavior Analysis
+* Analyzed 3,900 retail transactions through an automated data pipeline and deployed an interactive Power BI dashboard.
+* **Repo:** [Customer_Behavior_Analysis](https://github.com/AnkitBijalwan33/Customer_Behavior_Analysis)
 
 ---
 
 ## 🎯 Current Goal
-* Build projects that solve business problems and leverage modern data intelligence.
+* Building robust data ecosystems and intelligent business solutions that drive enterprise compliance and high-impact revenue decisions.
