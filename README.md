@@ -4,11 +4,14 @@
 
 🌐 **Connect With Me**
 <p>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/bijalwanankit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:ankitbijalwan25@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="tel:9548694709" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
   </a>
 </p>
 
