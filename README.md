@@ -2,6 +2,16 @@
 
 ### Data Analyst | SQL • Python • Power BI • GenAI & LLM Workflows
 
+🌐 **Connect With Me**
+<p>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -15,9 +25,21 @@
 
 ## 🛠️ Tech Stack
 
-* **Languages & Core:** Python, SQL, Jupyter Notebook, HTML
-* **Libraries & Tools:** Pandas, Scikit-Learn,Gen Ai
-* **Visualization:** Power BI, Tableau
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power_BI-Dashboarding-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FastAPI-API-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-red?style=for-the-badge">
+</p>
 
 ---
 
